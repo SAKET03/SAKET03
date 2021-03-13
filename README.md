@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=SAKET03
+<img alt="Saket's GitHub stats" align="right" src="https://github-readme-stats.urmilshroff.vercel.app/api?username=SAKET03&hide_border=true&hide_title=true&show_icons=true">
 <!--
 **SAKET03/SAKET03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
