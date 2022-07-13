@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Saket Sultania!
-I am a Computer Science Student and Artificial Intelligence enthusiast, a quick learner and keen to explore the realm of Artificial Intelligence with experience in Web Development. To work and grow professionally in the domain and contribute my skills to the best of my ability. 
+I am a Computer Engineering Student and Artificial Intelligence enthusiast, a quick learner and keen to explore the realm of Artificial Intelligence with experience in Web Development. To work and grow professionally in the domain and contribute my skills to the best of my ability. 
 
 ### Connect with Me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SAKET03)
