@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Saket Sultania!
-I am a Full stack Developer and Artificial Intelligence enthusiast. I am striving to learn and grow my skill set in both domains to create modern Web-based applications equipped with powers of Artificial Intelligence. Visit my <a href="https://saketsultania-tech.netlify.app/" target="_blank" >Portfolio Website</a> for my Contact Information and Resume.
+I am a Computer Science Student and Artificial Intelligence enthusiast, a quick learner and keen to explore the realm of Artificial Intelligence with experience in Web Development. To work and grow professionally as an Artificial Intelligence engineer organization where I could contribute my skills.
 
 ### Connect with Me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SAKET03)
