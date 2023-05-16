@@ -14,4 +14,4 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SAKET03)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saket-sultania/)
 
-<img alt="Saket's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SAKET03&count_private=true&show_icons=true&theme=dark&hide=prs,stars">
+<> <img alt="Saket's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SAKET03&count_private=true&show_icons=true&theme=dark&hide=prs,stars">
