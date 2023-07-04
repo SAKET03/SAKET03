@@ -6,7 +6,7 @@
 
 ❤️‍🔥 Passionate about using technology to solve complex problems and improve daily lives
 
-🧑‍💻 Determined to build a successful AI and cloud computing career through further education or joining a leading organization.
+🧑‍💻 Determined to build a successful AI and Deep Learning career through further education or joining a leading organization.
 
 🔎 Seeking to learn and grow in this exciting and rapidly-evolving field.
 
