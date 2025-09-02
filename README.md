@@ -1,4 +1,4 @@
-### Hi 👋 I'm Saket Sultania!
+# Hi 👋 I'm Saket Sultania!
 
 🧑‍🎓 Computer Engineering graduate specializing in Artificial Intelligence and Machine Learning
 
