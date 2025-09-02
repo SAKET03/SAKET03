@@ -1,12 +1,12 @@
-## Hi 👋 I'm Saket Sultania!
+### Hi 👋 I'm Saket Sultania!
 
-🧑‍🎓 Third-year BTech student majoring in Computing Engineering with a focus on Artificial Intelligence and Machine Learning
+🧑‍🎓 Computer Engineering graduate specializing in Artificial Intelligence and Machine Learning
 
-💻 Strong technical skills in programming, data analysis, and machine learning developed through internships and research projects
+💻 Developed hands-on experience through internships and projects, building AI and deep learning solutions for real-world applications
 
-❤️‍🔥 Passionate about leveraging technology to solve complex problems and improve daily lives
+🔬 Led and co-authored research on multi-modal skin disease diagnosis and AI system design
 
-🧑‍💻  Determined to build a successful career in AI and Deep Learning, either through further education or through joining a leading organization
+🛠️ Proficient in Python, PyTorch, TensorFlow, and vision-language model development, with experience in model fine-tuning and deployment
 
 🔎 Eager to learn and grow in this exciting and rapidly evolving field
 
